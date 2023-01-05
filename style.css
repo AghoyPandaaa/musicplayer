@@ -97,3 +97,13 @@ input {
 .saat .end {
   margin-left: 85px;
 }
+
+::-moz-selection {
+  background: transparent;
+  color: #0046ae;
+}
+
+::selection {
+  background: transparent;
+  color: #0046ae;
+}
