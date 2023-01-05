@@ -50,6 +50,7 @@ html {
   box-shadow: 0 -1px 9px 0px black;
 }
 
+
 .songname {
   color: white;
   font-size: 18px;
@@ -71,4 +72,28 @@ text-shadow: 0 0px 16px black;
   cursor: pointer;
 }
 
+input {
+  width: 83%;
+  cursor: pointer;
+}
 
+.start {
+  color: white;
+  font-weight: bolder;
+}
+
+.end {
+  color: white;
+  font-weight: bolder;
+}
+
+.saat {
+  display: inline-block;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.saat .start {
+  margin-right: 80px;
+}
+.saat .end {
+  margin-left: 85px;
+}
