@@ -1,0 +1,33 @@
+* {
+  margin: 0px;
+}
+
+html {
+  height: 100%;
+  background-image: linear-gradient(#0046ae, #9198e5);
+}
+
+.bigpart {
+  position: absolute;
+  width: 300px;
+  height: 450px;
+  background: linear-gradient(0deg, rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
+}
+.bigpart:hover {
+  background: linear-gradient(0deg, rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
+}
+
+.bigpart {
+  border-radius: 20px;
+  margin-left: 85vh;
+  margin-top: 15vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
