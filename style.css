@@ -66,5 +66,9 @@ text-shadow: 0 0px 16px black;
   transition: 0.5s;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+.singer:hover {
+  color: #2e2e2e;
+  cursor: pointer;
+}
 
 
