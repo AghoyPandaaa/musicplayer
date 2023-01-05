@@ -28,6 +28,16 @@ html {
   align-items: center;
 }
 
+.head {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: larger;
+  opacity: initial;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  text-shadow: 0 1px 6px black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 
 
 
