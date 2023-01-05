@@ -39,5 +39,15 @@ html {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
+.coverimg {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+
+
 
 
